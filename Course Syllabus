@@ -1,0 +1,13 @@
+\classdocument[a4paper,12pt]{article}
+\usepackage{times}
+
+\begin{document}
+\title{\textbf{PhD Macroeconomics Syllabus}}
+\author{Gu, Xin}
+\date{September, 2018}
+
+\maketitle
+
+
+
+\end{document}
