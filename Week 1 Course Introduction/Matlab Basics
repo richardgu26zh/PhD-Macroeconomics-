@@ -1,0 +1,8 @@
+%=================================================%
+% This file is for basic skills in Matlab         %
+% Code by Gu, Xin                                 %
+% August 3rd, 2018                                %
+%=================================================%
+
+a = 1; % semicolon to suppress output in command window
+a = 2; % a has been resigned value 2
